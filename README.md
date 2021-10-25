@@ -24,7 +24,7 @@
 
 ## Description
 
-API Rede Social Tweet com Crud Completo de Users, Tweet, Like, Follow, Autenticaçáo de usurário.
+API Rede Social Tweet com Crud Completo de Users, Tweet, Like, Follow, Autenticação de usurário.
 
 ## Installation
 
